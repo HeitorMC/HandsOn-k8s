@@ -1,0 +1,3 @@
+kubeconfig.yaml
+sinatra-deployment.yaml
+sinatra-service.yaml

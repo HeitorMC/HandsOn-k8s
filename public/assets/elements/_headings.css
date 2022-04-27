@@ -1,0 +1,5 @@
+h1 {
+  color: var(--black);
+  font-size: var(--medium-font-size);
+  text-align: center;
+}

@@ -1,0 +1,37 @@
+:root {
+  /* fonts */
+  --font-montserrat: 'Montserrat', sans-serif;
+
+  /* fonts-sizes */
+  --size-unit: 1em;
+  --small-font-size: calc(0.75 * var(--size-unit));
+  --links-font-size: calc(1.25 * var(--size-unit));
+  --medium-font-size: calc(3 * var(--space-unit));
+  --title-font-size: calc(4.5 * var(--size-unit));
+
+  /* spaces */
+  /*1em = 16px*/
+  --space-unit: 1em;
+  --space-zero: calc(0 * var(--space-unit);)
+  --space-sm: calc(0.75 * var(--space-unit));
+  --space-m: calc(2 * var(--space-unit));
+  --space-l: calc(3.25 * var(--space-unit));
+  --space-xl: calc(5 * var(--space-unit));
+  --space-xxxl: calc(20 * var(--space-unit));
+
+  /* opacity */
+  --opacity-unit: 0.5;
+
+  /*transition */
+  --transition-unit: 0.4s;
+
+  /* height */
+  --default-height: 100vh;
+  --height-m: calc(0.3 * var(--default-height));
+
+  /* width */
+  --default-width: 30%;
+
+  /* margin */
+  --footer-margin: -5%;
+}

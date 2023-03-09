@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     ast (2.4.2)
     daemons (1.4.1)
@@ -9,7 +10,7 @@ GEM
     parallel (1.22.1)
     parser (3.1.2.0)
       ast (~> 2.4.1)
-    rack (2.2.3)
+    rack (2.2.6.3)
     rack-protection (2.1.0)
       rack
     rack-test (1.1.0)
